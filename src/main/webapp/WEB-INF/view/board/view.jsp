@@ -47,7 +47,6 @@
                 <button form="formDelete" class="btn btn-danger">삭제</button>
                 <a href="/modify?id=${board.id}" class="btn btn-secondary">수정</a>
             </div>
-
         </div>
     </div>
 </div>
